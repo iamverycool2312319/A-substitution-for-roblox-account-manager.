@@ -1,2 +1,2 @@
-# A-substitution-for-roblox-account-manager
+# A-substitution-for-roblox-account-manager.
 This is a substitution for the program called "Roblox Account Manager" also known as R.A.M and all this dose is mimic the feature of it relaunching roblox when kicked it can be used only in a private server and you need to use it with the macro called "AutoIt" and u need to have the executer "ScriptWare" if you desire to change this at all to fit your executer you sure can! you can also combine it with multiple roblox which is also in here. which is sadly a exe file but you dont need to download if you dont want to you can do your research on it tho!
